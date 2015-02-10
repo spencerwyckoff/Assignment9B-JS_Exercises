@@ -72,7 +72,7 @@ function addToBank(account, savings, retirement, checking) {
 }
 
 function getSumOfAccounts(account) {
-    // return ...
+    
 }
 
 addToBank(TimsBankAccount, 100, 10, 1);
